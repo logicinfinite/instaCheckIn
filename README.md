@@ -16,7 +16,17 @@ To provide the leading edge platform to inspire hotel organizations in Malaysia 
 
 ## What it does
 
-The user required to download the app anywhere from the playstore or by scanning QR code. Prior to check in, they need to search for a QR code nearby and scan the code to check in. Guest required to fill up the check-in details. After submission, Hotel front desk staff required to verify the latest guests details before handing over the room key. 
+The user required to download the app anywhere from the playstore or by scanning QR code. Prior to check in, they need to search for a QR code nearby and scan the code to check in. Guest required to fill up the check-in details. After submission, Hotel front desk staff required to verify the latest guests details before handing over the room key.
+
+  ---
+
+#  :camera: Screen-shots:
+&nbsp;<img src="https://github.com/logicinfinite/instaCheckIn/blob/main/sp.jpg" width="200" height="400" />&nbsp;
+&nbsp;<img src="https://github.com/logicinfinite/instaCheckIn/blob/main/reg.jpg" width="200" height="400" />&nbsp;
+&nbsp;<img src="https://github.com/logicinfinite/instaCheckIn/blob/main/login.jpg" width="200" height="400" />&nbsp; &nbsp; <img src="https://github.com/logicinfinite/instaCheckIn/blob/main/qr.jpg" width="200" height="400" />&nbsp;<img src="https://github.com/logicinfinite/instaCheckIn/blob/main/list.jpg" width="200" height="400" /> &nbsp;
+<img src="https://github.com/logicinfinite/instaCheckIn/blob/main/submission.jpg" width="200" height="400" />
+
+ ---
 
 ## Benefits:-
 
