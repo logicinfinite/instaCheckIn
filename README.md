@@ -6,7 +6,7 @@
 
 ## Demo 
 
-[Click here for demo video](https://www.youtube.com/watch?v=7lGJrq24P6o)&nbsp;<br>
+[Click here for demo video](https://www.youtube.com/watch?v=0Woc5DFSurI)&nbsp;<br>
 
 ## Inspiration
 
